@@ -76,7 +76,7 @@ This project is a FastAPI application that predicts the quality of milk based on
 ## Response
 ```json
 {
-    "prediction": "High"
+    "Milk Quality": "High"
 }
 ```
 ## Model Training
